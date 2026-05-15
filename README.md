@@ -195,7 +195,7 @@ https://www.cyberedt.com
 
 ## GitHub
 
-https://github.com/NCP-90/CyberEDT
+https://github.com/CyberEDT
 
 ---
 
